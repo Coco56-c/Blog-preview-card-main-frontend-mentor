@@ -1,4 +1,4 @@
-# QR Code Component
+# Blog Preview Card Main
 
 Challenge from [Frontend Mentor](https://www.frontendmentor.io/).
 
